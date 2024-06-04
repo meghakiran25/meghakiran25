@@ -8,8 +8,7 @@
 - 👋 Hi, I’m @meghakiran
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning skills required for data analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mekhakiran123@gmail.com
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: Even biotech engineer can become data analyst😊
 
 
