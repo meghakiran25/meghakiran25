@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mekhakiran123@gmail.com**
 
-- ⚡ Fun fact **Even biotech engineer can become data analyst😊**
+- ⚡ Fun fact **even biotech engineer can become data analyst😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
