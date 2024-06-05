@@ -1,4 +1,5 @@
-![Uploading 3156627.jpg…]()
+
+
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
@@ -22,7 +23,6 @@
       alt="EXCEL" width="40"</a> 
    <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi    target="_blank" rel="noreferrer">
    <img src="images/icons8-power-bi-2021.svg" alt="Power BI" width="40"
-</a> 
-
-
+</a>
 </p>
+![Uploading 3156627.jpg…]()
