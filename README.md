@@ -1,7 +1,5 @@
 
-![Alt text]("![3156627](https://github.com/meghakiran25/meghakiran25/assets/171676076/d378426b-cbbc-40db-9dd6-9aa255e1c3cc)
-)
-
+![Alt text](")
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
