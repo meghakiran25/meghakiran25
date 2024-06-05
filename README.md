@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Excel,SQL,Python,Power BI**
 
-- 📫 How to reach me **mekhakiran123@gmail.com**
+- 📫 How to reach me **mekhakiran123@gmail.com** 
 
 - ⚡ Fun fact **even biotech engineer can become data analyst😊**
 
