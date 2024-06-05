@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/3156627.png" alt="Image" style="max-width: 100%;     >
+  <img src="images/3156627.png" alt="Image" width="700";     >
 </div>
 
 
