@@ -1,24 +1,40 @@
-<h1 align="center">Hi 👋, I'm Megha Kiran</h1>
-<h3 align="center">Data Analyst Enthusiast</h3>
+<!-- Title -->
+<h1 align="center">Aspiring Data Analyst</h1>
 
-- 🌱 I’m currently learning **skills required for data analytics**
-
-- 💬 Ask me about **Excel,SQL,Python,Power BI**
-
-- 📫 How to reach me **mekhakiran123@gmail.com**
-
-- ⚡ Fun fact **Even biotech engineer can become data analyst😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/megha-kiran-22889b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/megha-kiran-22889b220" height="30" width="40" /></a>
+<!-- Badges -->
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft .com/" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/Admin/Downloads/icons8-excel.svg" >
-" width="40" height="40"/> </a> 
+<!-- Description -->
+<p align="center">Welcome to my GitHub profile! I'm an aspiring data analyst passionate about leveraging data to drive insights and decisions. Below you'll find some of my skills and tools.</p>
 
-
+<!-- Skills -->
+<h2 align="center">Skills & Tools</h2>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Microsoft_SQL_Server_logo.svg" alt="SQL" width="50">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="50">
 </p>
 
+<!-- Installation -->
+<h2 align="center">Installation</h2>
+<p align="center">No installation needed. Just explore the projects!</p>
+
+<!-- Projects -->
+<h2 align="center">Projects</h2>
+<!-- Add your project descriptions and images here -->
+
+<!-- License -->
+<h2 align="center">License</h2>
+<p align="center">This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+<!-- Contact -->
+<h2 align="center">Contact</h2>
+<p align="center">Feel free to connect with me on:</p>
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="30"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"></a>&nbsp;&nbsp;
+  <a href="https://github.com/yourusername"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30"></a>
+</p>
