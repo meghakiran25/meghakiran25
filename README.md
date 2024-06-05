@@ -1,6 +1,5 @@
 
-
-![Uploading 3156627.jpg…]()
+<img src="images/3156627.jpg">
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
