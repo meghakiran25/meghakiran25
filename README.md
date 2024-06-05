@@ -1,4 +1,5 @@
- ![Alt text](![3156627](https://github.com/meghakiran25/meghakiran25/assets/171676076/fb1c75bf-8ef4-4ff2-93ee-be2ef64bca29)
+
+![Uploading 3156627.png…]()
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
