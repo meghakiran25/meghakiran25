@@ -1,46 +1,18 @@
-<!-- Title -->
-<h1 align="center">Aspiring Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm Megha Kiran</h1>
+<h3 align="center">Data Analyst Enthusiast</h3>
 
-<!-- Badges -->
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
+- 🌱 I’m currently learning **skills required for data analytics**
+
+- 💬 Ask me about **Excel,SQL,Python,Power BI**
+
+- 📫 How to reach me **mekhakiran123@gmail.com**
+
+- ⚡ Fun fact **Even biotech engineer can become data analyst😊**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/megha-kiran-22889b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/megha-kiran-22889b220" height="30" width="40" /></a>
 </p>
 
-<!-- Description -->
-<p align="center">Welcome to my GitHub profile! I'm an aspiring data analyst passionate about leveraging data to drive insights and decisions. Below you'll find some of my projects and skills.</p>
-
-<!-- Skills -->
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-Expert-green">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-Intermediate-yellow">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Intermediate-yellow">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow">
-</p>
-
-<!-- Projects -->
-<h2 align="center">Projects</h2>
-
-<!-- Project 1 -->
-<h3 align="center">Sales Analysis Dashboard</h3>
-<p align="center">
-  <img src="images/sales_dashboard.png" alt="Sales Dashboard" width="500">
-</p>
-<p align="center">A dynamic dashboard created using Power BI to analyze sales data and track performance.</p>
-
-<!-- Project 2 -->
-<h3 align="center">Customer Segmentation</h3>
-<p align="center">
-  <img src="images/customer_segmentation.png" alt="Customer Segmentation" width="500">
-</p>
-<p align="center">Performed customer segmentation using Python and SQL to identify target groups for marketing campaigns.</p>
-
-<!-- Installation -->
-<h2 align="center">Installation</h2>
-<p align="center">To explore the projects locally:</p>
-<ol align="center">
-  <li>Clone the repository:</li>
-</ol>
-
-```sh
-git clone https://github.com/yourusername/your-repository.git
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
