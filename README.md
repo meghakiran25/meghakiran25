@@ -28,4 +28,4 @@
    <img src="images/icons8-power-bi-2021.svg" alt="Power BI" width="40"
 </a>
 </p>
-![Uploading 3156627.jpg…]()
+
