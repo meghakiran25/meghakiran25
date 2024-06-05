@@ -1,5 +1,5 @@
 
-![Alt text](images/d.png)
+![Alt text](images/3156627.png)
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
