@@ -1,4 +1,4 @@
-![Alt text](images/3156627.png "Optional title")
+<h width=50  ![Alt text](images/3156627.png "Optional title") >
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
