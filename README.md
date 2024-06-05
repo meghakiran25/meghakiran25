@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="images/3156627.png" alt="Image" width="400">
+</div>
 
-![Alt text](images/3156627.png)
+
 
 <h1 align="center">Hi 👋, I'm Megha Kiran</h1>
 <h3 align="center">Data Analyst Enthusiast</h3>
