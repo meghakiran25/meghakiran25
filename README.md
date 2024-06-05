@@ -15,10 +15,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.microsoft.com/en/microsoft-365/excel?market=af"  target="_blank" rel="noreferrer"><img src="images/excel-svgrepo-com (1).svg"
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+      <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af"  target="_blank" rel="noreferrer"><img src="images/excel-svgrepo-com (1).svg"
       alt="EXCEL" width="40"</a> 
-   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi  >
-   <img src="images/icons8-power-bi-2021.svg" alt="Power BI" width="40">
+   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi    target="_blank" rel="noreferrer">
+   <img src="images/icons8-power-bi-2021.svg" alt="Power BI" width="40"
 </a> 
 
 
