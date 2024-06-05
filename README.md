@@ -16,7 +16,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50">&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Microsoft_SQL_Server_logo.svg" alt="SQL" width="50">&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="50">
-</p>
+</p> 
 
 <!-- Installation -->
 <h2 align="center">Installation</h2>
